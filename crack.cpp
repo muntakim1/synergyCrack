@@ -1,4 +1,4 @@
-//2017-June-3 scripted by genBTC, original code from Symless / Synergy (Github)
+
 #include <iostream>
 #include <sstream>
 #include <iomanip>
